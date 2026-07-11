@@ -1,0 +1,24 @@
+# Icarus Verilog 编译输出
+*.vvp
+*.out
+
+# 仿真波形
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+
+# 日志与临时文件
+*.log
+*.tmp
+*~
+
+# 编辑器和系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 仿真输出目录中的生成文件
+sim/*
+!sim/.gitkeep
