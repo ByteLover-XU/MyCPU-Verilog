@@ -1,0 +1,1248 @@
+[
+  {
+    "title": "Getting Started",
+    "url": "https://hdlbits.01xz.net/wiki/step_one",
+    "category": "Getting Started",
+    "section": "Getting Started",
+    "subsection": ""
+  },
+  {
+    "title": "Output Zero",
+    "url": "https://hdlbits.01xz.net/wiki/zero",
+    "category": "Getting Started",
+    "section": "Getting Started",
+    "subsection": ""
+  },
+  {
+    "title": "Simple wire",
+    "url": "https://hdlbits.01xz.net/wiki/wire",
+    "category": "Verilog Language",
+    "section": "Basics",
+    "subsection": ""
+  },
+  {
+    "title": "Four wires",
+    "url": "https://hdlbits.01xz.net/wiki/wire4",
+    "category": "Verilog Language",
+    "section": "Basics",
+    "subsection": ""
+  },
+  {
+    "title": "Inverter",
+    "url": "https://hdlbits.01xz.net/wiki/notgate",
+    "category": "Verilog Language",
+    "section": "Basics",
+    "subsection": ""
+  },
+  {
+    "title": "AND gate",
+    "url": "https://hdlbits.01xz.net/wiki/andgate",
+    "category": "Verilog Language",
+    "section": "Basics",
+    "subsection": ""
+  },
+  {
+    "title": "NOR gate",
+    "url": "https://hdlbits.01xz.net/wiki/norgate",
+    "category": "Verilog Language",
+    "section": "Basics",
+    "subsection": ""
+  },
+  {
+    "title": "XNOR gate",
+    "url": "https://hdlbits.01xz.net/wiki/xnorgate",
+    "category": "Verilog Language",
+    "section": "Basics",
+    "subsection": ""
+  },
+  {
+    "title": "Declaring wires",
+    "url": "https://hdlbits.01xz.net/wiki/wire_decl",
+    "category": "Verilog Language",
+    "section": "Basics",
+    "subsection": ""
+  },
+  {
+    "title": "7458 chip",
+    "url": "https://hdlbits.01xz.net/wiki/7458",
+    "category": "Verilog Language",
+    "section": "Basics",
+    "subsection": ""
+  },
+  {
+    "title": "Vectors",
+    "url": "https://hdlbits.01xz.net/wiki/vector0",
+    "category": "Verilog Language",
+    "section": "Vectors",
+    "subsection": ""
+  },
+  {
+    "title": "Vectors in more detail",
+    "url": "https://hdlbits.01xz.net/wiki/vector1",
+    "category": "Verilog Language",
+    "section": "Vectors",
+    "subsection": ""
+  },
+  {
+    "title": "Vector part select",
+    "url": "https://hdlbits.01xz.net/wiki/vector2",
+    "category": "Verilog Language",
+    "section": "Vectors",
+    "subsection": ""
+  },
+  {
+    "title": "Bitwise operators",
+    "url": "https://hdlbits.01xz.net/wiki/vectorgates",
+    "category": "Verilog Language",
+    "section": "Vectors",
+    "subsection": ""
+  },
+  {
+    "title": "Four-input gates",
+    "url": "https://hdlbits.01xz.net/wiki/gates4",
+    "category": "Verilog Language",
+    "section": "Vectors",
+    "subsection": ""
+  },
+  {
+    "title": "Vector concatenation operator",
+    "url": "https://hdlbits.01xz.net/wiki/vector3",
+    "category": "Verilog Language",
+    "section": "Vectors",
+    "subsection": ""
+  },
+  {
+    "title": "Vector reversal 1",
+    "url": "https://hdlbits.01xz.net/wiki/vectorr",
+    "category": "Verilog Language",
+    "section": "Vectors",
+    "subsection": ""
+  },
+  {
+    "title": "Replication operator",
+    "url": "https://hdlbits.01xz.net/wiki/vector4",
+    "category": "Verilog Language",
+    "section": "Vectors",
+    "subsection": ""
+  },
+  {
+    "title": "More replication",
+    "url": "https://hdlbits.01xz.net/wiki/vector5",
+    "category": "Verilog Language",
+    "section": "Vectors",
+    "subsection": ""
+  },
+  {
+    "title": "Modules",
+    "url": "https://hdlbits.01xz.net/wiki/module",
+    "category": "Verilog Language",
+    "section": "Modules: Hierarchy",
+    "subsection": ""
+  },
+  {
+    "title": "Connecting ports by position",
+    "url": "https://hdlbits.01xz.net/wiki/module_pos",
+    "category": "Verilog Language",
+    "section": "Modules: Hierarchy",
+    "subsection": ""
+  },
+  {
+    "title": "Connecting ports by name",
+    "url": "https://hdlbits.01xz.net/wiki/module_name",
+    "category": "Verilog Language",
+    "section": "Modules: Hierarchy",
+    "subsection": ""
+  },
+  {
+    "title": "Three modules",
+    "url": "https://hdlbits.01xz.net/wiki/module_shift",
+    "category": "Verilog Language",
+    "section": "Modules: Hierarchy",
+    "subsection": ""
+  },
+  {
+    "title": "Modules and vectors",
+    "url": "https://hdlbits.01xz.net/wiki/module_shift8",
+    "category": "Verilog Language",
+    "section": "Modules: Hierarchy",
+    "subsection": ""
+  },
+  {
+    "title": "Adder 1",
+    "url": "https://hdlbits.01xz.net/wiki/module_add",
+    "category": "Verilog Language",
+    "section": "Modules: Hierarchy",
+    "subsection": ""
+  },
+  {
+    "title": "Adder 2",
+    "url": "https://hdlbits.01xz.net/wiki/module_fadd",
+    "category": "Verilog Language",
+    "section": "Modules: Hierarchy",
+    "subsection": ""
+  },
+  {
+    "title": "Carry-select adder",
+    "url": "https://hdlbits.01xz.net/wiki/module_cseladd",
+    "category": "Verilog Language",
+    "section": "Modules: Hierarchy",
+    "subsection": ""
+  },
+  {
+    "title": "Adder-subtractor",
+    "url": "https://hdlbits.01xz.net/wiki/module_addsub",
+    "category": "Verilog Language",
+    "section": "Modules: Hierarchy",
+    "subsection": ""
+  },
+  {
+    "title": "Always blocks (combinational)",
+    "url": "https://hdlbits.01xz.net/wiki/alwaysblock1",
+    "category": "Verilog Language",
+    "section": "Procedures",
+    "subsection": ""
+  },
+  {
+    "title": "Always blocks (clocked)",
+    "url": "https://hdlbits.01xz.net/wiki/alwaysblock2",
+    "category": "Verilog Language",
+    "section": "Procedures",
+    "subsection": ""
+  },
+  {
+    "title": "If statement",
+    "url": "https://hdlbits.01xz.net/wiki/always_if",
+    "category": "Verilog Language",
+    "section": "Procedures",
+    "subsection": ""
+  },
+  {
+    "title": "If statement latches",
+    "url": "https://hdlbits.01xz.net/wiki/always_if2",
+    "category": "Verilog Language",
+    "section": "Procedures",
+    "subsection": ""
+  },
+  {
+    "title": "Case statement",
+    "url": "https://hdlbits.01xz.net/wiki/always_case",
+    "category": "Verilog Language",
+    "section": "Procedures",
+    "subsection": ""
+  },
+  {
+    "title": "Priority encoder",
+    "url": "https://hdlbits.01xz.net/wiki/always_case2",
+    "category": "Verilog Language",
+    "section": "Procedures",
+    "subsection": ""
+  },
+  {
+    "title": "Priority encoder with casez",
+    "url": "https://hdlbits.01xz.net/wiki/always_casez",
+    "category": "Verilog Language",
+    "section": "Procedures",
+    "subsection": ""
+  },
+  {
+    "title": "Avoiding latches",
+    "url": "https://hdlbits.01xz.net/wiki/always_nolatches",
+    "category": "Verilog Language",
+    "section": "Procedures",
+    "subsection": ""
+  },
+  {
+    "title": "Conditional ternary operator",
+    "url": "https://hdlbits.01xz.net/wiki/conditional",
+    "category": "Verilog Language",
+    "section": "More Verilog Features",
+    "subsection": ""
+  },
+  {
+    "title": "Reduction operators",
+    "url": "https://hdlbits.01xz.net/wiki/reduction",
+    "category": "Verilog Language",
+    "section": "More Verilog Features",
+    "subsection": ""
+  },
+  {
+    "title": "Reduction: Even wider gates",
+    "url": "https://hdlbits.01xz.net/wiki/gates100",
+    "category": "Verilog Language",
+    "section": "More Verilog Features",
+    "subsection": ""
+  },
+  {
+    "title": "Combinational for-loop: Vector reversal 2",
+    "url": "https://hdlbits.01xz.net/wiki/vector100r",
+    "category": "Verilog Language",
+    "section": "More Verilog Features",
+    "subsection": ""
+  },
+  {
+    "title": "Combinational for-loop: 255-bit population count",
+    "url": "https://hdlbits.01xz.net/wiki/popcount255",
+    "category": "Verilog Language",
+    "section": "More Verilog Features",
+    "subsection": ""
+  },
+  {
+    "title": "Generate for-loop: 100-bit binary adder 2",
+    "url": "https://hdlbits.01xz.net/wiki/adder100i",
+    "category": "Verilog Language",
+    "section": "More Verilog Features",
+    "subsection": ""
+  },
+  {
+    "title": "Generate for-loop: 100-digit BCD adder",
+    "url": "https://hdlbits.01xz.net/wiki/bcdadd100",
+    "category": "Verilog Language",
+    "section": "More Verilog Features",
+    "subsection": ""
+  },
+  {
+    "title": "Wire",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4h",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "GND",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4i",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "NOR",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4e",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Another gate",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4f",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Two gates",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4g",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "More logic gates",
+    "url": "https://hdlbits.01xz.net/wiki/gates",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "7420 chip",
+    "url": "https://hdlbits.01xz.net/wiki/7420",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Truth tables",
+    "url": "https://hdlbits.01xz.net/wiki/truthtable1",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Two-bit equality",
+    "url": "https://hdlbits.01xz.net/wiki/mt2015_eq2",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Simple circuit A",
+    "url": "https://hdlbits.01xz.net/wiki/mt2015_q4a",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Simple circuit B",
+    "url": "https://hdlbits.01xz.net/wiki/mt2015_q4b",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Combine circuits A and B",
+    "url": "https://hdlbits.01xz.net/wiki/mt2015_q4",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Ring or vibrate?",
+    "url": "https://hdlbits.01xz.net/wiki/ringer",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Thermostat",
+    "url": "https://hdlbits.01xz.net/wiki/thermostat",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "3-bit population count",
+    "url": "https://hdlbits.01xz.net/wiki/popcount3",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Gates and vectors",
+    "url": "https://hdlbits.01xz.net/wiki/gatesv",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "Even longer vectors",
+    "url": "https://hdlbits.01xz.net/wiki/gatesv100",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Basic Gates"
+  },
+  {
+    "title": "2-to-1 multiplexer",
+    "url": "https://hdlbits.01xz.net/wiki/mux2to1",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Multiplexers"
+  },
+  {
+    "title": "2-to-1 bus multiplexer",
+    "url": "https://hdlbits.01xz.net/wiki/mux2to1v",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Multiplexers"
+  },
+  {
+    "title": "9-to-1 multiplexer",
+    "url": "https://hdlbits.01xz.net/wiki/mux9to1v",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Multiplexers"
+  },
+  {
+    "title": "256-to-1 multiplexer",
+    "url": "https://hdlbits.01xz.net/wiki/mux256to1",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Multiplexers"
+  },
+  {
+    "title": "256-to-1 4-bit multiplexer",
+    "url": "https://hdlbits.01xz.net/wiki/mux256to1v",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Multiplexers"
+  },
+  {
+    "title": "Half adder",
+    "url": "https://hdlbits.01xz.net/wiki/hadd",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Arithmetic Circuits"
+  },
+  {
+    "title": "Full adder",
+    "url": "https://hdlbits.01xz.net/wiki/fadd",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Arithmetic Circuits"
+  },
+  {
+    "title": "3-bit binary adder",
+    "url": "https://hdlbits.01xz.net/wiki/adder3",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Arithmetic Circuits"
+  },
+  {
+    "title": "Adder",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4j",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Arithmetic Circuits"
+  },
+  {
+    "title": "Signed addition overflow",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2014_q1c",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Arithmetic Circuits"
+  },
+  {
+    "title": "100-bit binary adder",
+    "url": "https://hdlbits.01xz.net/wiki/adder100",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Arithmetic Circuits"
+  },
+  {
+    "title": "4-digit BCD adder",
+    "url": "https://hdlbits.01xz.net/wiki/bcdadd4",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Arithmetic Circuits"
+  },
+  {
+    "title": "3-variable",
+    "url": "https://hdlbits.01xz.net/wiki/kmap1",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Karnaugh Map to Circuit"
+  },
+  {
+    "title": "4-variable",
+    "url": "https://hdlbits.01xz.net/wiki/kmap2",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Karnaugh Map to Circuit"
+  },
+  {
+    "title": "4-variable",
+    "url": "https://hdlbits.01xz.net/wiki/kmap3",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Karnaugh Map to Circuit"
+  },
+  {
+    "title": "4-variable",
+    "url": "https://hdlbits.01xz.net/wiki/kmap4",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Karnaugh Map to Circuit"
+  },
+  {
+    "title": "Minimum SOP and POS",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2013_q2",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Karnaugh Map to Circuit"
+  },
+  {
+    "title": "Karnaugh map",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q3",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Karnaugh Map to Circuit"
+  },
+  {
+    "title": "Karnaugh map",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2012_q1g",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Karnaugh Map to Circuit"
+  },
+  {
+    "title": "K-map implemented with a multiplexer",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2014_q3",
+    "category": "Circuits",
+    "section": "Combinational Logic",
+    "subsection": "Karnaugh Map to Circuit"
+  },
+  {
+    "title": "D flip-flop",
+    "url": "https://hdlbits.01xz.net/wiki/dff",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "D flip-flops",
+    "url": "https://hdlbits.01xz.net/wiki/dff8",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "DFF with reset",
+    "url": "https://hdlbits.01xz.net/wiki/dff8r",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "DFF with reset value",
+    "url": "https://hdlbits.01xz.net/wiki/dff8p",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "DFF with asynchronous reset",
+    "url": "https://hdlbits.01xz.net/wiki/dff8ar",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "DFF with byte enable",
+    "url": "https://hdlbits.01xz.net/wiki/dff16e",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "D Latch",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4a",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "DFF",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4b",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "DFF",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4c",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "DFF+gate",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4d",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "Mux and DFF",
+    "url": "https://hdlbits.01xz.net/wiki/mt2015_muxdff",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "Mux and DFF",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2014_q4a",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "DFFs and gates",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2014_q4",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "Create circuit from truth table",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2013_q7",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "Detect an edge",
+    "url": "https://hdlbits.01xz.net/wiki/edgedetect",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "Detect both edges",
+    "url": "https://hdlbits.01xz.net/wiki/edgedetect2",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "Edge capture register",
+    "url": "https://hdlbits.01xz.net/wiki/edgecapture",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "Dual-edge triggered flip-flop",
+    "url": "https://hdlbits.01xz.net/wiki/dualedge",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Latches and Flip-Flops"
+  },
+  {
+    "title": "Four-bit binary counter",
+    "url": "https://hdlbits.01xz.net/wiki/count15",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Counters"
+  },
+  {
+    "title": "Decade counter",
+    "url": "https://hdlbits.01xz.net/wiki/count10",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Counters"
+  },
+  {
+    "title": "Decade counter again",
+    "url": "https://hdlbits.01xz.net/wiki/count1to10",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Counters"
+  },
+  {
+    "title": "Slow decade counter",
+    "url": "https://hdlbits.01xz.net/wiki/countslow",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Counters"
+  },
+  {
+    "title": "Counter 1-12",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2014_q7a",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Counters"
+  },
+  {
+    "title": "Counter 1000",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2014_q7b",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Counters"
+  },
+  {
+    "title": "4-digit decimal counter",
+    "url": "https://hdlbits.01xz.net/wiki/countbcd",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Counters"
+  },
+  {
+    "title": "12-hour clock",
+    "url": "https://hdlbits.01xz.net/wiki/count_clock",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Counters"
+  },
+  {
+    "title": "4-bit shift register",
+    "url": "https://hdlbits.01xz.net/wiki/shift4",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Shift Registers"
+  },
+  {
+    "title": "Left/right rotator",
+    "url": "https://hdlbits.01xz.net/wiki/rotate100",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Shift Registers"
+  },
+  {
+    "title": "Left/right arithmetic shift by 1 or 8",
+    "url": "https://hdlbits.01xz.net/wiki/shift18",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Shift Registers"
+  },
+  {
+    "title": "5-bit LFSR",
+    "url": "https://hdlbits.01xz.net/wiki/lfsr5",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Shift Registers"
+  },
+  {
+    "title": "3-bit LFSR",
+    "url": "https://hdlbits.01xz.net/wiki/mt2015_lfsr",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Shift Registers"
+  },
+  {
+    "title": "32-bit LFSR",
+    "url": "https://hdlbits.01xz.net/wiki/lfsr32",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Shift Registers"
+  },
+  {
+    "title": "Shift register",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q4k",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Shift Registers"
+  },
+  {
+    "title": "Shift register",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2014_q4b",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Shift Registers"
+  },
+  {
+    "title": "3-input LUT",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2013_q12",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Shift Registers"
+  },
+  {
+    "title": "Rule 90",
+    "url": "https://hdlbits.01xz.net/wiki/rule90",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "More Circuits"
+  },
+  {
+    "title": "Rule 110",
+    "url": "https://hdlbits.01xz.net/wiki/rule110",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "More Circuits"
+  },
+  {
+    "title": "Conway's Game of Life 16x16",
+    "url": "https://hdlbits.01xz.net/wiki/conwaylife",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "More Circuits"
+  },
+  {
+    "title": "Simple FSM 1 (asynchronous reset)",
+    "url": "https://hdlbits.01xz.net/wiki/fsm1",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Simple FSM 1 (synchronous reset)",
+    "url": "https://hdlbits.01xz.net/wiki/fsm1s",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Simple FSM 2 (asynchronous reset)",
+    "url": "https://hdlbits.01xz.net/wiki/fsm2",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Simple FSM 2 (synchronous reset)",
+    "url": "https://hdlbits.01xz.net/wiki/fsm2s",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Simple state transitions 3",
+    "url": "https://hdlbits.01xz.net/wiki/fsm3comb",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Simple one-hot state transitions 3",
+    "url": "https://hdlbits.01xz.net/wiki/fsm3onehot",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Simple FSM 3 (asynchronous reset)",
+    "url": "https://hdlbits.01xz.net/wiki/fsm3",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Simple FSM 3 (synchronous reset)",
+    "url": "https://hdlbits.01xz.net/wiki/fsm3s",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Design a Moore FSM",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2013_q4",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Lemmings 1",
+    "url": "https://hdlbits.01xz.net/wiki/lemmings1",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Lemmings 2",
+    "url": "https://hdlbits.01xz.net/wiki/lemmings2",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Lemmings 3",
+    "url": "https://hdlbits.01xz.net/wiki/lemmings3",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Lemmings 4",
+    "url": "https://hdlbits.01xz.net/wiki/lemmings4",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "One-hot FSM",
+    "url": "https://hdlbits.01xz.net/wiki/fsm_onehot",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "PS/2 packet parser",
+    "url": "https://hdlbits.01xz.net/wiki/fsm_ps2",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "PS/2 packet parser and datapath",
+    "url": "https://hdlbits.01xz.net/wiki/fsm_ps2data",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Serial receiver",
+    "url": "https://hdlbits.01xz.net/wiki/fsm_serial",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Serial receiver and datapath",
+    "url": "https://hdlbits.01xz.net/wiki/fsm_serialdata",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Serial receiver with parity checking",
+    "url": "https://hdlbits.01xz.net/wiki/fsm_serialdp",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Sequence recognition",
+    "url": "https://hdlbits.01xz.net/wiki/fsm_hdlc",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q8: Design a Mealy FSM",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2013_q8",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q5a: Serial two's complementer (Moore FSM)",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2014_q5a",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q5b: Serial two's complementer (Mealy FSM)",
+    "url": "https://hdlbits.01xz.net/wiki/exams/ece241_2014_q5b",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q3a: FSM",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2014_q3fsm",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q3b: FSM",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2014_q3bfsm",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q3c: FSM logic",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2014_q3c",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q6b: FSM next-state logic",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q6b",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q6c: FSM one-hot next-state logic",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q6c",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q6: FSM",
+    "url": "https://hdlbits.01xz.net/wiki/exams/m2014_q6",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q2a: FSM",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2012_q2fsm",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q2b: One-hot FSM equations",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2012_q2b",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q2a: FSM",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2013_q2afsm",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Q2b: Another FSM",
+    "url": "https://hdlbits.01xz.net/wiki/exams/2013_q2bfsm",
+    "category": "Circuits",
+    "section": "Sequential Logic",
+    "subsection": "Finite State Machines"
+  },
+  {
+    "title": "Counter with period 1000",
+    "url": "https://hdlbits.01xz.net/wiki/exams/review2015_count1k",
+    "category": "Circuits",
+    "section": "Building Larger Circuits",
+    "subsection": ""
+  },
+  {
+    "title": "4-bit shift register and down counter",
+    "url": "https://hdlbits.01xz.net/wiki/exams/review2015_shiftcount",
+    "category": "Circuits",
+    "section": "Building Larger Circuits",
+    "subsection": ""
+  },
+  {
+    "title": "FSM: Sequence 1101 recognizer",
+    "url": "https://hdlbits.01xz.net/wiki/exams/review2015_fsmseq",
+    "category": "Circuits",
+    "section": "Building Larger Circuits",
+    "subsection": ""
+  },
+  {
+    "title": "FSM: Enable shift register",
+    "url": "https://hdlbits.01xz.net/wiki/exams/review2015_fsmshift",
+    "category": "Circuits",
+    "section": "Building Larger Circuits",
+    "subsection": ""
+  },
+  {
+    "title": "FSM: The complete FSM",
+    "url": "https://hdlbits.01xz.net/wiki/exams/review2015_fsm",
+    "category": "Circuits",
+    "section": "Building Larger Circuits",
+    "subsection": ""
+  },
+  {
+    "title": "The complete timer",
+    "url": "https://hdlbits.01xz.net/wiki/exams/review2015_fancytimer",
+    "category": "Circuits",
+    "section": "Building Larger Circuits",
+    "subsection": ""
+  },
+  {
+    "title": "FSM: One-hot logic equations",
+    "url": "https://hdlbits.01xz.net/wiki/exams/review2015_fsmonehot",
+    "category": "Circuits",
+    "section": "Building Larger Circuits",
+    "subsection": ""
+  },
+  {
+    "title": "Mux",
+    "url": "https://hdlbits.01xz.net/wiki/bugs_mux2",
+    "category": "Verification: Reading Simulations",
+    "section": "Finding bugs in code",
+    "subsection": ""
+  },
+  {
+    "title": "NAND",
+    "url": "https://hdlbits.01xz.net/wiki/bugs_nand3",
+    "category": "Verification: Reading Simulations",
+    "section": "Finding bugs in code",
+    "subsection": ""
+  },
+  {
+    "title": "Mux",
+    "url": "https://hdlbits.01xz.net/wiki/bugs_mux4",
+    "category": "Verification: Reading Simulations",
+    "section": "Finding bugs in code",
+    "subsection": ""
+  },
+  {
+    "title": "Add/sub",
+    "url": "https://hdlbits.01xz.net/wiki/bugs_addsubz",
+    "category": "Verification: Reading Simulations",
+    "section": "Finding bugs in code",
+    "subsection": ""
+  },
+  {
+    "title": "Case statement",
+    "url": "https://hdlbits.01xz.net/wiki/bugs_case",
+    "category": "Verification: Reading Simulations",
+    "section": "Finding bugs in code",
+    "subsection": ""
+  },
+  {
+    "title": "Combinational circuit 1",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit1",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Combinational circuit 2",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit2",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Combinational circuit 3",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit3",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Combinational circuit 4",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit4",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Combinational circuit 5",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit5",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Combinational circuit 6",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit6",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Sequential circuit 7",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit7",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Sequential circuit 8",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit8",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Sequential circuit 9",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit9",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Sequential circuit 10",
+    "url": "https://hdlbits.01xz.net/wiki/sim/circuit10",
+    "category": "Verification: Reading Simulations",
+    "section": "Build a circuit from a simulation waveform",
+    "subsection": ""
+  },
+  {
+    "title": "Clock",
+    "url": "https://hdlbits.01xz.net/wiki/tb/clock",
+    "category": "Verification: Writing Testbenches",
+    "section": "Verification: Writing Testbenches",
+    "subsection": ""
+  },
+  {
+    "title": "Testbench1",
+    "url": "https://hdlbits.01xz.net/wiki/tb/tb1",
+    "category": "Verification: Writing Testbenches",
+    "section": "Verification: Writing Testbenches",
+    "subsection": ""
+  },
+  {
+    "title": "AND gate",
+    "url": "https://hdlbits.01xz.net/wiki/tb/and",
+    "category": "Verification: Writing Testbenches",
+    "section": "Verification: Writing Testbenches",
+    "subsection": ""
+  },
+  {
+    "title": "Testbench2",
+    "url": "https://hdlbits.01xz.net/wiki/tb/tb2",
+    "category": "Verification: Writing Testbenches",
+    "section": "Verification: Writing Testbenches",
+    "subsection": ""
+  },
+  {
+    "title": "T flip-flop",
+    "url": "https://hdlbits.01xz.net/wiki/tb/tff",
+    "category": "Verification: Writing Testbenches",
+    "section": "Verification: Writing Testbenches",
+    "subsection": ""
+  }
+]
